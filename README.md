@@ -17,12 +17,12 @@
 | ---- | ---- | ---- | ---- | ---- |
 |   3.그리디   | ✔  |  [코드](https://github.com/0meeee/for_coding_test/tree/main/ch2.%EC%A3%BC%EC%9A%94%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98%EC%9D%B4%EB%A1%A0/03.%EA%B7%B8%EB%A6%AC%EB%94%94) |    [이론](https://github.com/0meeee/for_coding_test/blob/main/ch2.%EC%A3%BC%EC%9A%94%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98%EC%9D%B4%EB%A1%A0/03.%EA%B7%B8%EB%A6%AC%EB%94%94/Readme.md)|    [설명](https://yeongvly.tistory.com/53)  |
 |   4.구현   | ✔ |  [코드](https://github.com/0meeee/for_coding_test/tree/main/ch2.%EC%A3%BC%EC%9A%94%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98%EC%9D%B4%EB%A1%A0/04.%EA%B5%AC%ED%98%84) |    [이론]|    [설명 & 해설]  |
-|   5. DFS/BFS   |  |  [코드] |    [이론]|    [설명]  |
-|   6. 정렬   |  |  [코드] |    [이론]|    [설명]  |
-|   7.이진탐색   |  |  [코드] |    [이론]|    [설명]  |
-|   8. 다이나믹 프로그래밍   |  |  [코드] |    [이론]|    [설명]  |
-|   9. 최단 경로   |  |  [코드] |    [이론]|    [설명]  |
-|   10. 그래프   |  |  [코드] |    [이론]|    [설명]  |
+|   5. DFS/BFS   |  |  |   |     |
+|   6. 정렬   |  |  |   |     |
+|   7.이진탐색   |  |  |   |     |
+|   8. 다이나믹 프로그래밍   |  |  |   |     |
+|   9. 최단 경로   |  |  |   |     |
+|   10. 그래프   |  |  |   |     |
 </br>
 </br>
 
