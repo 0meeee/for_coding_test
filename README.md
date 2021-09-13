@@ -16,7 +16,7 @@
 | 주요알고리즘     | 진행|  소스코드   |  이론    |  티스토리  |
 | ---- | ---- | ---- | ---- | ---- |
 |   3.그리디   | ✔  |  [코드](https://github.com/0meeee/for_coding_test/tree/main/ch2.%EC%A3%BC%EC%9A%94%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98%EC%9D%B4%EB%A1%A0/03.%EA%B7%B8%EB%A6%AC%EB%94%94) |    [이론](https://github.com/0meeee/for_coding_test/blob/main/ch2.%EC%A3%BC%EC%9A%94%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98%EC%9D%B4%EB%A1%A0/03.%EA%B7%B8%EB%A6%AC%EB%94%94/Readme.md)|    [설명](https://yeongvly.tistory.com/53)  |
-|   4.구현   | ✔ |  [코드](https://github.com/0meeee/for_coding_test/tree/main/ch2.%EC%A3%BC%EC%9A%94%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98%EC%9D%B4%EB%A1%A0/04.%EA%B5%AC%ED%98%84) |    [이론]|    [설명 & 해설]  |
+|   4.구현   | ✔ |  [코드](https://github.com/0meeee/for_coding_test/tree/main/ch2.%EC%A3%BC%EC%9A%94%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98%EC%9D%B4%EB%A1%A0/04.%EA%B5%AC%ED%98%84) |    [이론](https://github.com/0meeee/for_coding_test/blob/main/ch2.%EC%A3%BC%EC%9A%94%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98%EC%9D%B4%EB%A1%A0/04.%EA%B5%AC%ED%98%84/Readme.md)|    [설명]  |
 |   5. DFS/BFS   |  |  |   |     |
 |   6. 정렬   |  |  |   |     |
 |   7.이진탐색   |  |  |   |     |
