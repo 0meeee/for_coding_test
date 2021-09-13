@@ -2,6 +2,13 @@
 
 ## 목차
 
+### **1장. 코딩 테스트를 위한 파이썬 문법**
+
+[코드](https://github.com/0meeee/for_coding_test/tree/main/ch1.%ED%8C%8C%EC%9D%B4%EC%8D%AC%EB%AC%B8%EB%B2%95)
+
+</br>
+
+
 ### **2장. 주요 알고리즘 이론과 실전문제**
 
 </br>
